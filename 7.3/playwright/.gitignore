@@ -1,5 +1,11 @@
 /node_modules/
 
+user.js
+
+test-results/
+playwright-report/
+
+.DS_Store
 
 .vscode/*
 !.vscode/settings.json
@@ -8,5 +14,4 @@
 !.vscode/extensions.json
 *.code-workspace
 
-# Local History for Visual Studio Code
 .history/
